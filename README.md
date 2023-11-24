@@ -1,2 +1,2 @@
 # vidFlow
-Projeto Fullstack em HTML, CSS e JavaScript de uma plataforma de compartilhamento de vídeos.
+Projeto em HTML, CSS e JavaScript de uma plataforma de compartilhamento de vídeos.
